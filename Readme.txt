@@ -1,6 +1,6 @@
-Thanks for downloading this theme!
+Thanks for downloading this template!
 
-Theme Name: NewBiz
-Theme URL: https://bootstrapmade.com/newbiz-bootstrap-business-template/
+Template Name: NewBiz
+Template URL: https://bootstrapmade.com/newbiz-bootstrap-business-template/
 Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+License: https://bootstrapmade.com/license/
